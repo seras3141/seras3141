@@ -51,10 +51,9 @@ I am a passionate computer science professional with a strong foundation in mach
 
 ## Get in Touch
 
-- **Email**: [suren.sritharan@tum.de](mailto:suren.sritharan@tum.de)
+- **Email**: [serena.sritharan@helmholtz-munich.de](mailto:serena.sritharan@helmholtz-munich.de)
 
 <!--
-**suren3141/suren3141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
